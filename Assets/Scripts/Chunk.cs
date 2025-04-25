@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
-
+//yeni bir ekleme
 public class Chunk : MonoBehaviour
 {
     [SerializeField] GameObject Fence;
